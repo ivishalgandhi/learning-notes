@@ -49,3 +49,9 @@ curl -s -H "X-TYPESENSE-API-KEY: xyz" -X GET \
 
 
 ```
+
+
+## References
+- https://typesense.org/docs/0.22.1/api/collections.html
+- 
+
